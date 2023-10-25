@@ -6,7 +6,10 @@
 ### <div align="center">Betzaida Loyo, Data Scientist  </div>  
   
 
-- 🚀 Capacitada en Soy Henry  
+- 🚀 Capacitación de Data Science en Soy Henry  
+  
+
+- 👩‍🎓 Graduada en Ciencias Políticas (UFT)  
   
 
 <br/>  
@@ -48,14 +51,10 @@
 
 <br/>  
 
-
-## Github Stats  
   
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
@@ -77,7 +76,11 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a></div>  
+
+<br/>  
+
+
 <br />
 
 ----
